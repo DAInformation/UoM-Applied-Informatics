@@ -3,8 +3,8 @@
 
 # Λίστα αποθετηρίων
 
-[IliasChatzi/ArchitectureNotesUOM](https://github.com/IliasChatzi/ArchitectureNotesUOM)
+[Chatzichristidis/ArchitectureNotesUOM](https://github.com/Chatzichristidis/ArchitectureNotesUOM)
 
-[IliasChatzi/ArchitectureNotesUom2023](https://github.com/IliasChatzi/ArchitectureNotesUom2023)
+[Chatzichristidis/ArchitectureNotesUom2023](https://github.com/Chatzichristidis/ArchitectureNotesUom2023)
 
 [iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s2/computer_architecture)
