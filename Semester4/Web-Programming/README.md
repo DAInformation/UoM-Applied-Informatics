@@ -8,6 +8,8 @@
 
 [AikKent/AthleticCorner](https://github.com/AikKent/AthleticCorner)
 
+\* [anEleftheriadis/InternetProgramming](https://github.com/anEleftheriadis/InternetProgramming)
+
 [Antonios-Kagias/my-eshop](https://github.com/Antonios-Kagias/my-eshop)
 
 [ArchontisKostis/my-uom-notes](https://github.com/ArchontisKostis/my-uom-notes/tree/main/Web%20Development)
