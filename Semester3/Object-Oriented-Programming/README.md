@@ -18,6 +18,8 @@
 
 [Leonardpepa/PamakBook](https://github.com/Leonardpepa/PamakBook)
 
+[madskgg/UoM-Applied-Informatics](https://github.com/madskgg/UoM-Applied-Informatics/tree/main/Semester3/Object-Oriented%20Programming)
+
 [marf-13/SurvNet_Java](https://github.com/marf-13/SurvNet_Java)  
 
 [maroulakion/University-of-Macedonia (notes)](https://github.com/maroulakion/University-of-Macedonia/blob/main/Notes_Java_maroun.pdf)
