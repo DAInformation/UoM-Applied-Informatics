@@ -24,6 +24,6 @@
 
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s2/data-structures)
 
-[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Data_Structures)
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_02/Data_Structures)
 
 [Tsoukkas/Applied-Informatics---University-of-Macedonia](https://github.com/Tsoukkas/Applied-Informatics---University-of-Macedonia/tree/master/Data%20Stractures%20for%20C)

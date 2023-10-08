@@ -20,6 +20,6 @@
 
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s1/procedural-programming)
 
-[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Procedural_Programming)
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_01/Procedural_Programming)
 
 [Tsoukkas/Applied-Informatics---University-of-Macedonia](https://github.com/Tsoukkas/Applied-Informatics---University-of-Macedonia/tree/master/C)

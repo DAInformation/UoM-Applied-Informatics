@@ -8,6 +8,6 @@
 
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s3/digital-economy)
 
-[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Digital_Economics)
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_04/Digital_Economics)
 
 [Tsoukkas/Applied-Informatics---University-of-Macedonia](https://github.com/Tsoukkas/Applied-Informatics---University-of-Macedonia/tree/master/projects/Ψηφιακή%20Οικονομική)

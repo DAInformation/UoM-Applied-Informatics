@@ -13,3 +13,5 @@
 [steliosmagalios/AI-Freecell-Solitaire](https://github.com/steliosmagalios/AI-Freecell-Solitaire)
 
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s6/artificial-intelligence)
+
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_05/Artificial_Intelligence)

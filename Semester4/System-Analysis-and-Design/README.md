@@ -14,4 +14,4 @@
 
 [PanosFyt7/Applied-Informatics-UOM (Detailed)](https://github.com/PanosFyt7/Systems-Analysis-and-Design)
 
-[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/System_Analysis_and_Design)
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_04/System_Analysis_and_Design)

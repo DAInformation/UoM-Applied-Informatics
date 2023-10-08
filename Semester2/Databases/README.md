@@ -14,6 +14,6 @@
 
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s3/databases-i)
 
-[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Data_Bases)
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_02/Data_Bases)
 
 [Tsoukkas/Applied-Informatics---University-of-Macedonia](https://github.com/Tsoukkas/Applied-Informatics---University-of-Macedonia/tree/master/SQL)

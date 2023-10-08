@@ -38,4 +38,6 @@
 
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s3/object-oriented-programming)
 
+[tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_03/Object-Oriented_Programming)
+
 [Tsoukkas/Applied-Informatics---University-of-Macedonia](https://github.com/Tsoukkas/Applied-Informatics---University-of-Macedonia/tree/master/Java)

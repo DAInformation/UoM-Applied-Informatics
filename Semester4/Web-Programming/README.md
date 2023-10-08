@@ -34,7 +34,7 @@
 
 [papageo-dev/Web_Development-Sports_Website_GR](https://github.com/papageo-dev/Web_Development-Sports_Website_GR)
 
-\* [tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Web_Programming)
+\* [tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_04/Web_Programming)
 
 [Tsoukkas/Applied-Informatics---University-of-Macedonia (HTML)](https://github.com/Tsoukkas/Applied-Informatics---University-of-Macedonia/tree/master/HTML)
 
