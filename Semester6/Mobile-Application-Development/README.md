@@ -20,6 +20,8 @@
 
 [setokk/PhysioLink](https://github.com/setokk/PhysioLink)
 
+[steliosmagalios/StatusQuo](https://github.com/steliosmagalios/StatusQuo)
+
 [uom-android-team2/WeBall_Statistics](https://github.com/uom-android-team2/WeBall_Statistics)
 
 [uom-android-team2/WeBall_Statistics-Backend](https://github.com/uom-android-team2/WeBall_Statistics-Backend)

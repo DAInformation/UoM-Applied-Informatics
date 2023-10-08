@@ -10,4 +10,6 @@
 
 [PanosFyt7/Applied-Informatics-UOM](https://github.com/PanosFyt7/Applied-Informatics-UOM/tree/main/5th_semester/Artificial%20Intelligence)
 
+[steliosmagalios/AI-Freecell-Solitaire](https://github.com/steliosmagalios/AI-Freecell-Solitaire)
+
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s6/artificial-intelligence)

@@ -18,6 +18,8 @@
 
 [teo-tsirpanis/DayGame](https://github.com/teo-tsirpanis/DayGame)
 
+[TheBababoi/ProjectNanosMagos](https://github.com/TheBababoi/ProjectNanosMagos)
+
 [TopFlankerKiller/Labyrinth](https://github.com/TopFlankerKiller/Labyrinth)
 
 [UoM2021-CSC402-Team15/foititopoli](https://github.com/UoM2021-CSC402-Team15/foititopoli)
