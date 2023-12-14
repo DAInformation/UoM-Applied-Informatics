@@ -5,6 +5,8 @@
 
 [iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/Electronic_Business)
 
+[madskgg/UoM-Applied-Informatics](https://github.com/madskgg/UoM-Applied-Informatics/tree/main/Semester3/Electronic%20Business)
+
 [PanosFyt7/Applied-Informatics-UOM](https://github.com/PanosFyt7/Applied-Informatics-UOM/tree/main/3rd_semester/e-business)
 
 [tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_03/Electronic_Business/)
