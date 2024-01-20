@@ -26,6 +26,8 @@
 
 [maroulakion/University-of-Macedonia (project)](https://github.com/maroulakion/University-of-Macedonia/blob/main/Surveillance_Center_Java.zip)
 
+[PanagiotisBogas/Java-University](https://github.com/PanagiotisBogas/Java-University)
+
 [PanagiotisGiannoutakis/University-of-Macedonia---Applied-Informatics](https://github.com/PanagiotisGiannoutakis/University-of-Macedonia---Applied-Informatics/tree/main/Εφαρμοσμένη%20Πληροφορίκη/Αντικειμενοστραφής%20Προγραμματισμός)
 
 [papageo-dev/Hangman-Game](https://github.com/papageo-dev/Hangman-Game/tree/7b2ac11fa99830919ea1649940bf3f7d543f88a7)
