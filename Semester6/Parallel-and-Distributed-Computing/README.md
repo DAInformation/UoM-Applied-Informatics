@@ -4,6 +4,8 @@
 
 # Λίστα αποθετηρίων
 
+[Cleavest/PARALLEL-AND-DISTRIBUTED-CALCULATION-UOM](https://github.com/Cleavest/PARALLEL-AND-DISTRIBUTED-CALCULATION-UOM/tree/main)   
+
 [ChristosPts/University-of-Macedonia](https://github.com/ChristosPts/University-of-Macedonia/tree/main/Parallel%20and%20Distributed%20Computing)
 
 [PanagiotisBogas/Parallel-and-Distributed-Computing](https://github.com/PanagiotisBogas/Parallel-and-Distributed-Computing)
