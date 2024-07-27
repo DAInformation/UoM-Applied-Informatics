@@ -10,6 +10,8 @@
 
 [iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s4/System%20Analysis%20and%20Design)
 
+[madskgg/UoM-Applied-Informatics](https://github.com/madskgg/UoM-Applied-Informatics/tree/main/Semester4/System%20Analysis%20and%20Design) 
+
 [PanosFyt7/Applied-Informatics-UOM](https://github.com/PanosFyt7/Applied-Informatics-UOM/tree/main/4th_semester/System-Analysis-and-Design)
 
 [PanosFyt7/Applied-Informatics-UOM (Detailed)](https://github.com/PanosFyt7/Systems-Analysis-and-Design)
