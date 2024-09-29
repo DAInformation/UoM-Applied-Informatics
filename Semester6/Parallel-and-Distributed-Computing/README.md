@@ -14,6 +14,8 @@
 
 [papageo-dev/Parallel-Distributed_Computing](https://github.com/papageo-dev/Parallel-Distributed_Computing)
 
+[ptsionis/applied-informatics](https://github.com/ptsionis/applied-informatics/tree/main/Parallel%20and%20Distributed%20Computing) 
+
 [ptzafos/master-worker-sockets-java](https://github.com/ptzafos/master-worker-sockets-java)
 
 [ptzafos/ptzafos/go-bank-simulation](https://github.com/ptzafos/go-bank-simulation)

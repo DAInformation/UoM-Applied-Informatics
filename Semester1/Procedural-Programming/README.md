@@ -6,6 +6,8 @@
 
 [ChristosPts/University-of-Macedonia](https://github.com/ChristosPts/University-of-Macedonia/tree/main/UOM-Procedural%20Programming)
 
+[ElisavetKanidou/UoM-Applied-Informatics](https://github.com/ElisavetKanidou/UoM-Applied-Informatics/tree/main/Procedural%20Programming)  
+
 [GeorgeApos/procedural-programming-assignments](https://github.com/GeorgeApos/procedural-programming-assignments)
 
 [iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s1/Procedural_Programming)
@@ -15,6 +17,8 @@
 [PanosFyt7/Applied-Informatics-UOM](https://github.com/PanosFyt7/Applied-Informatics-UOM/tree/main/1st_semester/procedural_programming)
 
 [papageo-dev/Procedural_Programming-C](https://github.com/papageo-dev/Procedural_Programming-C)
+
+[ptsionis/applied-informatics](https://github.com/ptsionis/applied-informatics/tree/main/Procedural%20Programming) 
 
 [Sofianopoulou/UoM-Applied-Informatics](https://github.com/Sofianopoulou/UoM-Applied-Informatics/tree/main/1st%20semester/Procedural%20Programming)
 

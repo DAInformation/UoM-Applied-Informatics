@@ -12,6 +12,8 @@
 
 [PanagiotisGiannoutakis/University-of-Macedonia---Applied-Informatics](https://github.com/PanagiotisGiannoutakis/University-of-Macedonia---Applied-Informatics/tree/main/Εφαρμοσμένη%20Πληροφορίκη/Βάσεις%20Δεδομένων%201)
 
+[ptsionis/applied-informatics](https://github.com/ptsionis/applied-informatics/tree/main/Databases)  
+
 [teo-tsirpanis/uom](https://github.com/teo-tsirpanis/uom/tree/master/s3/databases-i)
 
 [tsantalis02/Uom_Applied_Informatics](https://github.com/tsantalis02/Uom_Applied_Informatics/tree/main/Semester_02/Data_Bases)

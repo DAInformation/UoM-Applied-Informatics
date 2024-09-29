@@ -8,6 +8,8 @@
 
 [AndreasHadjiantonis/UoM-Applied-Informatics](https://github.com/AndreasHadjiantonis/UoM-Applied-Informatics/tree/main/3rd%20Semester/Object%20Oriented%20Programming)
 
+[ElisavetKanidou/UoM-Applied-Informatics](https://github.com/ElisavetKanidou/UoM-Applied-Informatics/tree/main/Object%20Oriented%20Programming)  
+
 [GeorgeApos/pamakbook](https://github.com/GeorgeApos/pamakbook)
 
 [iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s3/object_oriented_programming)
@@ -35,6 +37,8 @@
 [papageo-dev/Surveillance_Network](https://github.com/papageo-dev/Surveillance_Network)
 
 [papageo-dev/Surveillance_Network-GUI_Version](https://github.com/papageo-dev/Surveillance_Network-GUI_Version)
+
+[ptsionis/applied-informatics](https://github.com/ptsionis/applied-informatics/tree/main/Object%20Oriented%20Programming)  
 
 [Sofianopoulou/UoM-Applied-Informatics](https://github.com/Sofianopoulou/UoM-Applied-Informatics/tree/main/3rd%20semester)
 

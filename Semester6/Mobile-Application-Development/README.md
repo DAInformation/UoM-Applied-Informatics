@@ -18,6 +18,8 @@
 
 [Johnblagas/Airball](https://github.com/Johnblagas/Airball)
 
+[ptsionis/applied-informatics](https://github.com/ptsionis/applied-informatics/tree/main/Android%20Development)  
+
 [setokk/PhysioLink](https://github.com/setokk/PhysioLink)
 
 [steliosmagalios/StatusQuo](https://github.com/steliosmagalios/StatusQuo)
