@@ -4,7 +4,9 @@
 
 # Λίστα αποθετηρίων
 
-[iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s5/Digital%20Marketing)
+[iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s5/Digital%20Marketing)  
+
+[madskgg/UoM-Applied-Informatics](https://github.com/madskgg/UoM-Applied-Informatics/tree/main/Semester5/Digital%20Marketing)  
 
 [PanosFyt7/Applied-Informatics-UOM](https://github.com/PanosFyt7/Applied-Informatics-UOM/tree/main/5th_semester/Digital%20Marketing)
 
