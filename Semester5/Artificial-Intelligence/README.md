@@ -6,7 +6,9 @@
 
 [ElisavetKanidou/UoM-Applied-Informatics](https://github.com/ElisavetKanidou/UoM-Applied-Informatics/tree/main/Artificial%20Intelligence)  
   
-[iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s5/Artificial%20Intelligence)
+[iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s5/Artificial%20Intelligence)  
+
+[madskgg/UoM-Applied-Informatics](https://github.com/madskgg/UoM-Applied-Informatics/tree/main/Semester5/Artificial%20Intelligence)  
 
 [Leonardpepa/Freecell-solitaire-AI-Solver](https://github.com/Leonardpepa/Freecell-solitaire-AI-Solver)
 

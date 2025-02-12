@@ -4,7 +4,9 @@
 
 # Λίστα αποθετηρίων
 
-[iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s5/Web%20Services)
+[iosifidis/UoM-Applied-Informatics](https://github.com/iosifidis/UoM-Applied-Informatics/tree/main/s5/Web%20Services)  
+
+[madskgg/UoM-Applied-Informatics](https://github.com/madskgg/UoM-Applied-Informatics/tree/main/Semester5/Web%20Services%20and%20Transactions)  
 
 [papageo-dev/Web_Development-Sports_Website_GR](https://github.com/papageo-dev/Web_Services_and_Transactions)
 
